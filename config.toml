@@ -43,10 +43,10 @@ copyright = "&copy;2018 Serum.cloud"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Connect"
+      heading = "Connect to Serum"
 
       [[params.links.list1.link]]
-        text = "DEX"
+        text = "Serum DEX"
         url = "https://dex.projectserum.com/"
 
       [[params.links.list1.link]]
@@ -54,13 +54,13 @@ copyright = "&copy;2018 Serum.cloud"
         url = "https://www.projectserum.com/"
 
       [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
+        text = "Sollet Wallet"
+        url = "https://www.sollet.io/"
 
   # Links List #2
   [[params.links]]
     [params.links.list2]
-      heading = "Social"
+      heading = "Socialize with Serum"
 
       [[params.links.list2.link]]
         text = "Twitter"
@@ -77,7 +77,7 @@ copyright = "&copy;2018 Serum.cloud"
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Network"
+      heading = "Serum.could Network"
 
       [[params.links.list3.link]]
         text = "Mirror Dex"
