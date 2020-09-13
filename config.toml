@@ -72,7 +72,7 @@ copyright = "&copy;2018 Serum.cloud"
 
       [[params.links.list2.link]]
         text = "FTX"
-        url = "https://ftx.com"
+        url = "https://ftx.com/#a=2929887"
 
   # Links List #3
   [[params.links]]
@@ -84,12 +84,10 @@ copyright = "&copy;2018 Serum.cloud"
         url = "#"
 
       [[params.links.list3.link]]
-        text = "Node"
+        text = "Dark Serum Node"
         url = "#"
 
-      [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
+  
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
