@@ -1,6 +1,7 @@
 +++
-title = "Jenny Jones"
-tagline = "Designer. Stylist. Nomad."
+title = "Serum.Cloud"
+tagline = "A Serum Node and DEX on the cloud"
 +++
 
-Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna]({{< ref "luctus-urna.md" >}}) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in]({{< ref "ipsum-in.md" >}}) malesuada congue, [purus sem]({{< ref "purus-sem.md" >}}) ullamcorper massa, sit amet lacinia nibh enim sed massa.
+Serum Cloud is a private initiative to contribe to the [Serum Project]({{< ref "https://www.project-serum.com" >}}). This site is under construction.
+
