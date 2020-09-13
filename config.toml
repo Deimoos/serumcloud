@@ -9,7 +9,7 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2018 Your Name"
+copyright = "&copy;2018 Serum.cloud"
 
 [params]
 
@@ -46,12 +46,12 @@ copyright = "&copy;2018 Your Name"
       heading = "Connect"
 
       [[params.links.list1.link]]
-        text = "Blog"
-        url = "#"
+        text = "DEX"
+        url = "https://dex.projectserum.com/"
 
       [[params.links.list1.link]]
-        text = "Email"
-        url = "#"
+        text = "Web"
+        url = "https://www.projectserum.com/"
 
       [[params.links.list1.link]]
         text = "Newsletter"
@@ -64,15 +64,15 @@ copyright = "&copy;2018 Your Name"
 
       [[params.links.list2.link]]
         text = "Twitter"
-        url = "#"
+        url = "https://twitter.com/projectserum"
 
       [[params.links.list2.link]]
-        text = "Instagram"
-        url = "#"
+        text = "Telegram"
+        url = "https://t.me/ProjectSerum"
 
       [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
+        text = "FTX"
+        url = "https://ftx.com"
 
   # Links List #3
   [[params.links]]
@@ -80,11 +80,11 @@ copyright = "&copy;2018 Your Name"
       heading = "Network"
 
       [[params.links.list3.link]]
-        text = "Link One"
+        text = "Mirror Dex"
         url = "#"
 
       [[params.links.list3.link]]
-        text = "Link Two"
+        text = "Node"
         url = "#"
 
       [[params.links.list3.link]]
